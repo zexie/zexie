@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zexie
 - 👀 I’m interested in Discord Bots
 - 🌱 I’m currently learning Discord.JS
-- 💞️ I’m looking to collaborate on bots
 - 📫 ZEXIE#5187
 
 <!---
