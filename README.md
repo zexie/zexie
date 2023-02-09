@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zexie
 - 👀 I’m interested in Discord Bots
 - 🌱 I’m currently learning Discord.JS
-- 📫 ZEXIE#9696
+- 📫 ZEXIE#8986
 
 <!---
 zexie/zexie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
